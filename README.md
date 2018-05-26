@@ -50,3 +50,9 @@ mv <filename> <newname>
 
 ```bash
 mv <filename> <foldername>
+```
+
+### To move and rename a file at the same time
+
+```bash
+mv <filename> ../<nameofnewfile>
