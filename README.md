@@ -38,3 +38,15 @@ vi <filename>
 
 ```bash
 cp <filename.txt> <nameofnewfile.txt>
+```
+
+### To rename a file
+
+```bash
+mv <filename> <newname>
+```
+
+### To move a file
+
+```bash
+mv <filename> <foldername>
