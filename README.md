@@ -14,7 +14,7 @@ mkdir <folder name>
 ### To open folder
 
 ```bash
-cd <folder name>
+cd <foldername>
 ```
 ### To see list of items in the folder
 
