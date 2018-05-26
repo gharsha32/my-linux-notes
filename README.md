@@ -9,7 +9,7 @@ pwd
 ### To create new folder
 
 ```bash
-mkdir <folder name>
+mkdir <foldername>
 ```
 ### To open folder
 
