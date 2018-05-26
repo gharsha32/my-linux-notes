@@ -25,5 +25,16 @@ ls
 ### To create new file
 
 ```bash
-touch <filename>
+touch <filename.txt>
 ```
+
+### To open a text file
+
+```bash
+vi <filename>
+```
+
+### To copy a .txt file
+
+```bash
+cp <filename.txt> <nameofnewfile.txt>
