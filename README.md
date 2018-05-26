@@ -52,11 +52,9 @@ mv <filename> <newname>
 mv <filename> <foldername>
 ```
 
-### To move and rename a file at the same time
 
-```bash
-mv <filename> ../<nameofnewfile>
-```
+
+
 
 ### To remove a file
 
