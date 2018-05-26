@@ -34,7 +34,7 @@ touch <filename.txt>
 vi <filename>
 ```
 
-### To copy a .txt file
+### To copy  .txt file
 
 ```bash
 cp <filename.txt> <nameofnewfile.txt>
