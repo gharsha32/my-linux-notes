@@ -56,3 +56,9 @@ mv <filename> <foldername>
 
 ```bash
 mv <filename> ../<nameofnewfile>
+```
+
+### To remove a file
+
+```bash
+rm <filename>
