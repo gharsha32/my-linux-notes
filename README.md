@@ -52,11 +52,18 @@ mv <filename> <newname>
 mv <filename> <foldername>
 ```
 
-
-
-
-
 ### To remove a file
 
 ```bash
 rm <filename>
+```
+
+### To see list items and permitions
+```bash
+ls-l
+```
+
+### To see who logged into the directory 
+```bash
+who
+```
